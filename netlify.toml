@@ -1,3 +1,0 @@
-[build]
-  command = "php -S localhost:8080"
-  functions = "index.php"
